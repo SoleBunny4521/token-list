@@ -184622,4 +184622,16 @@
     "minor": 3,
     "patch": 3
   }
+},
+{
+  "chainId": 101,
+  "address": "Bsge9VSCFKwUrY5BoQeb8qtf9PLqDjMS9n9eG7kGhySX",
+  "symbol": "ZZZ",
+  "name": "SleepFi Token",
+  "decimals": 9,
+  "logoURI": "https://ipfs.io/ipfs/bafkreicegp4ybp4mnlxc5s7gvysgrkc3uqvla36iu4vet7c6g7v2h3lrhq",
+  "tags": ["utility", "community", "sleep"],
+  "extensions": {
+    "description": "Earn while you sleep with SleepFi Token."
+  }
 }
